@@ -9,15 +9,15 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		
-		Product product = new Product(null, 0);
+		/*
+		Product product = new Product();
 				
 		Quando executamos o comando acima, instanciamos um produto "product" com
 		seus atributos “vazios”:
 		nome = null
 		preço = 0.0
 		quantidade = 0
-		
+		 */
 		//System.out.println(product.name);
 		//System.out.println(product.price);
 		//System.out.println(product.quantity);
